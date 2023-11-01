@@ -1,1 +1,10 @@
+#tRCC cell lines
 
+base_file_name:
+  A2_CKDN230014513: /mnt/storage/labs/sviswanathan/tRCC_data/trcc_wes/bam_run/cleaned_bams/A2_CKDN230014513_rg_sorted.bam
+  A4_CKDN230014515: /mnt/storage/labs/sviswanathan/tRCC_data/trcc_wes/bam_run/cleaned_bams/A4_CKDN230014515_rg_sorted.bam
+  
+normals:
+
+  A2_CKDN230014513: A1_CKDN230014512
+  A4_CKDN230014515: A4_CKDN230014515
